@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/yellapantula-ramana/spark-react-app.git/static/css/main.a7789cb2.css",
-    "main.js": "/yellapantula-ramana/spark-react-app.git/static/js/main.1ff8d920.js",
-    "index.html": "/yellapantula-ramana/spark-react-app.git/index.html",
-    "main.a7789cb2.css.map": "/yellapantula-ramana/spark-react-app.git/static/css/main.a7789cb2.css.map",
-    "main.1ff8d920.js.map": "/yellapantula-ramana/spark-react-app.git/static/js/main.1ff8d920.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.a7789cb2.css",
-    "static/js/main.1ff8d920.js"
-  ]
+    "main.css": "/yellapantula-ramana.github.io/spark-react-app.git/static/css/main.79c22671.chunk.css",
+    "main.js": "/yellapantula-ramana.github.io/spark-react-app.git/static/js/main.0b775983.chunk.js",
+    "main.js.map": "/yellapantula-ramana.github.io/spark-react-app.git/static/js/main.0b775983.chunk.js.map",
+    "runtime~main.js": "/yellapantula-ramana.github.io/spark-react-app.git/static/js/runtime~main.0d387fdf.js",
+    "runtime~main.js.map": "/yellapantula-ramana.github.io/spark-react-app.git/static/js/runtime~main.0d387fdf.js.map",
+    "static/js/2.e67a7231.chunk.js": "/yellapantula-ramana.github.io/spark-react-app.git/static/js/2.e67a7231.chunk.js",
+    "static/js/2.e67a7231.chunk.js.map": "/yellapantula-ramana.github.io/spark-react-app.git/static/js/2.e67a7231.chunk.js.map",
+    "index.html": "/yellapantula-ramana.github.io/spark-react-app.git/index.html",
+    "precache-manifest.0be84aabd4dbb781f19cba046cc94c0d.js": "/yellapantula-ramana.github.io/spark-react-app.git/precache-manifest.0be84aabd4dbb781f19cba046cc94c0d.js",
+    "service-worker.js": "/yellapantula-ramana.github.io/spark-react-app.git/service-worker.js",
+    "static/css/main.79c22671.chunk.css.map": "/yellapantula-ramana.github.io/spark-react-app.git/static/css/main.79c22671.chunk.css.map"
+  }
 }
