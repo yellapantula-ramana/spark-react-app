@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yellapantula-ramana/spark-react-app.git/static/css/main.a7789cb2.css",
+    "main.js": "/yellapantula-ramana/spark-react-app.git/static/js/main.1ff8d920.js",
+    "index.html": "/yellapantula-ramana/spark-react-app.git/index.html",
+    "main.a7789cb2.css.map": "/yellapantula-ramana/spark-react-app.git/static/css/main.a7789cb2.css.map",
+    "main.1ff8d920.js.map": "/yellapantula-ramana/spark-react-app.git/static/js/main.1ff8d920.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7789cb2.css",
+    "static/js/main.1ff8d920.js"
+  ]
+}
