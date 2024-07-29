@@ -8,37 +8,37 @@ const SparkTutorWebsite = () => {
     {
       title: "IT",
       description: "CLASS 10 IT in the Form of PPT, QUIZS and Mindmaps based on Question patterns",
-      image:  "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-      enrollLink: "#enroll/PHYSICS"
+      image: "/api/placeholder/300/300",
+      enrollLink: "/enroll/PHYSICS"
     },
     {
       title: "SCIENCE",
       description: "CLASS 10 Science in the Form of PPT, QUIZS and Mindmaps based on Question pattern",
-      image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-      enrollLink: "#enroll/CHEMISTRY"
+      image: "/api/placeholder/300/300",
+      enrollLink: "/enroll/CHEMISTRY"
     },
     {
       title: "MATHEMATICS",
       description: "CLASS 10 Mathematics in the Form of PPT, QUIZS and Mindmaps based on Question pattern.",
-      image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      image: "/api/placeholder/300/300",
       enrollLink: "/enroll/MATHEMATICS"
     },
     {
       title: "IT",
       description: "CLASS 9 IT in the Form of PPT, QUIZS and Mindmaps based on Question pattern",
-      image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      image: "/api/placeholder/300/300",
       enrollLink: "/enroll/PHYSICS-CLASS-9"
     },
     {
       title: "SCIENCE",
       description: "CLASS 9 Science in the Form of PPT, QUIZS and Mindmaps based on Question pattern",
-      image: "https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      image: "/api/placeholder/300/300",
       enrollLink: "/enroll/CHEMISTRY-CLASS-9"
     },
     {
       title: "MATHEMATICS",
       description: "CLASS 9 Mathematics in the Form of PPT, QUIZS and Mindmaps based on Question pattern",
-      image:  "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      image: "/api/placeholder/300/300",
       enrollLink: "/enroll/MATHEMATICS-CLASS-9"
     },
   ];
@@ -183,7 +183,7 @@ const SparkTutorWebsite = () => {
           <p className="mt-2">Quality online education for all.</p>
           <div className="mt-4 flex justify-center space-x-4">
             {['Facebook', 'Twitter', 'Instagram', 'LinkedIn'].map((social) => (
-              <a key={social} href="#about" className="hover:text-blue-400 transition duration-300" style={{ textDecoration: 'none' }}>{social}</a>
+              <a key={social} href="#" className="hover:text-blue-400 transition duration-300" style={{ textDecoration: 'none' }}>{social}</a>
             ))}
           </div>
         </div>
