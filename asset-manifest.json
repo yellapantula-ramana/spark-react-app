@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/spark-react-app/static/css/main.79c22671.chunk.css",
-    "main.js": "/spark-react-app/static/js/main.0b775983.chunk.js",
-    "main.js.map": "/spark-react-app/static/js/main.0b775983.chunk.js.map",
-    "runtime~main.js": "/spark-react-app/static/js/runtime~main.aca16701.js",
-    "runtime~main.js.map": "/spark-react-app/static/js/runtime~main.aca16701.js.map",
-    "static/js/2.e67a7231.chunk.js": "/spark-react-app/static/js/2.e67a7231.chunk.js",
-    "static/js/2.e67a7231.chunk.js.map": "/spark-react-app/static/js/2.e67a7231.chunk.js.map",
+    "main.css": "/spark-react-app/static/css/main.7eda073a.css",
+    "main.js": "/spark-react-app/static/js/main.456c00c5.js",
     "index.html": "/spark-react-app/index.html",
-    "precache-manifest.3c131361f05434a7491d2724fba2c6fb.js": "/spark-react-app/precache-manifest.3c131361f05434a7491d2724fba2c6fb.js",
-    "service-worker.js": "/spark-react-app/service-worker.js",
-    "static/css/main.79c22671.chunk.css.map": "/spark-react-app/static/css/main.79c22671.chunk.css.map"
-  }
+    "main.7eda073a.css.map": "/spark-react-app/static/css/main.7eda073a.css.map",
+    "main.456c00c5.js.map": "/spark-react-app/static/js/main.456c00c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eda073a.css",
+    "static/js/main.456c00c5.js"
+  ]
 }
